@@ -1,5 +1,7 @@
 # Custom Security Log Parser & Automated Threat Triage Pipeline
 
+![Security Dashboard Preview](dashboard_preview.png)
+
 ## Project Overview
 This project showcases a production-ready Python pipeline designed to ingest unstructured enterprise server access logs, transform the telemetry data into highly structured pandas DataFrames, and apply rule-based heuristics to isolate automated attacks, network mapping behavior, and malicious access attempts.
 
